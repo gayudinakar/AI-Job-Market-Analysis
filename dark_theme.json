@@ -1,0 +1,79 @@
+{
+  "name": "AI Dashboard Dark Theme",
+  "dataColors": [
+    "#7C5CBF",
+    "#00C9A7",
+    "#F7971E",
+    "#FF6B6B",
+    "#4ECDC4",
+    "#45B7D1",
+    "#96CEB4",
+    "#FFEAA7"
+  ],
+  "background": "#0F1117",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#7C5CBF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": {
+              "solid": {
+                "color": "#1A1A2E"
+              }
+            }
+          }
+        ],
+        "fontColor": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "calloutValue": [
+          {
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Semibold",
+            "fontBold": true
+          }
+        ],
+        "label": [
+          {
+            "fontSize": 11,
+            "color": {
+              "solid": {
+                "color": "#AAAAAA"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": {
+              "solid": {
+                "color": "#7C5CBF"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "innerRadius": [{"innerRadius": 55}]
+      }
+    }
+  }
+}

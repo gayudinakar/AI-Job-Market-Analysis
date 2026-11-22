@@ -1,0 +1,22 @@
+metric,value
+total_jobs,1981
+unique_companies,25
+unique_job_titles,14
+avg_salary_usd,138859.0
+median_salary_usd,134058.0
+max_salary_usd,271233.0
+min_salary_usd,60054.0
+pct_remote,30.6
+pct_hybrid,35.4
+pct_onsite,34.0
+pct_visa_sponsored,29.9
+avg_applications,256.4
+top_job_title,Machine Learning Engineer
+top_skill,Llms
+top_company,Deepmind
+top_industry,E-Commerce
+highest_paid_role,Data Engineer
+highest_paid_level,Principal
+pct_entry_level,16.3
+pct_senior_level,35.5
+total_skills_analyzed,30

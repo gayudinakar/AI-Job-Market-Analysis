@@ -1,0 +1,82 @@
+work_mode,post_year,industry,job_count
+Hybrid,2022,Automotive,18
+Hybrid,2022,Cybersecurity,23
+Hybrid,2022,E-Commerce,33
+Hybrid,2022,Education,25
+Hybrid,2022,Finance,26
+Hybrid,2022,Government,28
+Hybrid,2022,Healthcare,29
+Hybrid,2022,Media & Entertainment,26
+Hybrid,2022,Technology,36
+Hybrid,2023,Automotive,28
+Hybrid,2023,Cybersecurity,15
+Hybrid,2023,E-Commerce,26
+Hybrid,2023,Education,27
+Hybrid,2023,Finance,27
+Hybrid,2023,Government,31
+Hybrid,2023,Healthcare,31
+Hybrid,2023,Media & Entertainment,28
+Hybrid,2023,Technology,22
+Hybrid,2024,Automotive,26
+Hybrid,2024,Cybersecurity,18
+Hybrid,2024,E-Commerce,28
+Hybrid,2024,Education,18
+Hybrid,2024,Finance,25
+Hybrid,2024,Government,25
+Hybrid,2024,Healthcare,31
+Hybrid,2024,Media & Entertainment,28
+Hybrid,2024,Technology,24
+Onsite,2022,Automotive,27
+Onsite,2022,Cybersecurity,31
+Onsite,2022,E-Commerce,30
+Onsite,2022,Education,20
+Onsite,2022,Finance,28
+Onsite,2022,Government,28
+Onsite,2022,Healthcare,27
+Onsite,2022,Media & Entertainment,35
+Onsite,2022,Technology,29
+Onsite,2023,Automotive,26
+Onsite,2023,Cybersecurity,24
+Onsite,2023,E-Commerce,26
+Onsite,2023,Education,27
+Onsite,2023,Finance,30
+Onsite,2023,Government,24
+Onsite,2023,Healthcare,24
+Onsite,2023,Media & Entertainment,20
+Onsite,2023,Technology,24
+Onsite,2024,Automotive,23
+Onsite,2024,Cybersecurity,26
+Onsite,2024,E-Commerce,27
+Onsite,2024,Education,19
+Onsite,2024,Finance,17
+Onsite,2024,Government,21
+Onsite,2024,Healthcare,20
+Onsite,2024,Media & Entertainment,19
+Onsite,2024,Technology,21
+Remote,2022,Automotive,32
+Remote,2022,Cybersecurity,22
+Remote,2022,E-Commerce,23
+Remote,2022,Education,31
+Remote,2022,Finance,25
+Remote,2022,Government,23
+Remote,2022,Healthcare,19
+Remote,2022,Media & Entertainment,24
+Remote,2022,Technology,24
+Remote,2023,Automotive,20
+Remote,2023,Cybersecurity,26
+Remote,2023,E-Commerce,27
+Remote,2023,Education,23
+Remote,2023,Finance,20
+Remote,2023,Government,24
+Remote,2023,Healthcare,21
+Remote,2023,Media & Entertainment,26
+Remote,2023,Technology,34
+Remote,2024,Automotive,21
+Remote,2024,Cybersecurity,14
+Remote,2024,E-Commerce,21
+Remote,2024,Education,18
+Remote,2024,Finance,19
+Remote,2024,Government,20
+Remote,2024,Healthcare,15
+Remote,2024,Media & Entertainment,14
+Remote,2024,Technology,20
